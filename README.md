@@ -25,7 +25,7 @@ A note on the Bokeh toolbar :
 
 The Bokeh toolbar is a customizable toolbar located at the right of the image as above. It has the below options (from top to bottom):
 
-![Screenshot2](Indian-Airports-Visualized/Bokeh_Toolbar.PNG)
+![Screenshot2](Bokeh_Toolbar.PNG)
 
 1) Link to Bokeh home page: Clicking on it will open http://bokeh.pydata.org/en/latest/ where you can read more abour Bokeh
 2) Pan: Allows you to navigate across the map in the GMapPlot. You might need to use the Pan tool in order to view the 'PORT BLAIR' airport, for instance
