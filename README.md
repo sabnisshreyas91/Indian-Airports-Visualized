@@ -21,3 +21,9 @@ The data is not limited to only commercial airports. For instance around Bangalo
 
 However, the data does not include the 'Kushok Bakula Rimpochhe Airport' which serves the city of Leh, so the list is incomplete in terms of commercial airports as well.
 
+A note on the Bokeh toolbar :
+
+The Bokeh toolbar is a customizable toolbar located at the right of the image as above. It has the below options:
+
+
+
