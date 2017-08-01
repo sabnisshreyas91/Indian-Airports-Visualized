@@ -16,6 +16,8 @@ The tooltip displays the below fields:
 3) Max_Runway (for Airports where this information is available)
 
 A note on the data:
+
 The data is not limited to only commercial airports. For instance around Bangalore, apart from the Kempegowda International Airport, the data includes the HAL Airport (labelled simply as 'BANGALORE') and the Yelahanka Air Force Station. Both of these airports are only used for Defence purposes now.
+
 However, the data does not include the 'Kushok Bakula Rimpochhe Airport' which serves the city of Leh, so the list is incomplete in terms of commercial airports as well.
 
